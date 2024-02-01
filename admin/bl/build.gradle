@@ -1,0 +1,4 @@
+apply plugin:'java'
+dependencies{
+    implementation files('../dl/dist/admin-1.0.jar')
+}
